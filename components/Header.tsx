@@ -24,8 +24,8 @@ export const Header: React.FC<HeaderProps> = ({
             <BookOpen size={24} strokeWidth={2.5} />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-wider handwritten-font">宪法小卫士</h1>
-            <p className="text-xs text-red-200 opacity-90">初一年级手抄报助手 · 2025国家宪法日</p>
+            <h1 className="text-xl font-bold tracking-wider handwritten-font">小报助手</h1>
+            <p className="text-xs text-red-200 opacity-90">全年龄小报/手抄报助手</p>
           </div>
         </div>
 
