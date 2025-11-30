@@ -25,7 +25,7 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
           <div>
             <h1 className="text-xl font-bold tracking-wider handwritten-font">小报助手</h1>
-            <p className="text-xs text-red-200 opacity-90">全年龄小报/手抄报助手</p>
+            <p className="text-xs text-red-200 opacity-90">手抄报生成神器</p>
           </div>
         </div>
 
